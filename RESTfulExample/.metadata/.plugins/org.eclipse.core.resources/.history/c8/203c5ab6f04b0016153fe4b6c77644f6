@@ -1,0 +1,12 @@
+package com.ad.campaign;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class AdCampaignDAO {
+
+	
+	private Map<Ad> adMap = new HashMap<Ad>(); 
+	
+	
+}

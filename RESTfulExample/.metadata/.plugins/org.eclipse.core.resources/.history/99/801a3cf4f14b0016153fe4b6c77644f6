@@ -1,0 +1,34 @@
+package com.ad.campaign;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class AdCampaignDAO {
+
+	
+	private Map<String,Ad> adMap = new HashMap<String, Ad>();
+	
+	public void createAd(Ad ad) throws Exception{
+		if(adMap.containsKey(ad.getPartner_id())){
+			Date currDate = new Date();
+			if(currDate.getTime()<= (ad.getCreatedTime().getTime() + (ad.getDuration()*1000))){
+				throw new Exception ("Ad is already created and live");
+			}
+			adMap.put(ad.getPartner_id(), ad);
+		}
+	}
+	
+	public Ad getAd(String partnerId){
+		return adMap.get(partnerId);
+	}
+	
+	public List<Ad> getAllAds(){
+		List<Ad> allAds = new ArrayList<Ad>();
+		allAds.addAll(adMap.values());
+	}
+	
+	
+}

@@ -1,0 +1,6 @@
+package com.ad.campaign;
+
+@Path("/AdCampaignService")
+public class AdCampaignServices {
+
+}

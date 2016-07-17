@@ -1,0 +1,758 @@
+2016-07-16 23:58:57,580 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-16 23:59:00,087 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:00,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-16 23:59:00,096 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:00,101 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-16 23:59:00,134 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyAdCampaign/src
+2016-07-16 23:59:00,136 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /MyAdCampaign/src/test/java because it overlaps with /MyAdCampaign/src
+2016-07-16 23:59:00,768 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-16 23:59:01,408 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-16 23:59:02,690 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:02,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-16 23:59:02,701 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:02,705 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-16 23:59:02,706 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-16 23:59:02,707 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-16 23:59:02,763 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:02,791 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyAdCampaign/src
+2016-07-16 23:59:02,791 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /MyAdCampaign/src/test/java because it overlaps with /MyAdCampaign/src
+2016-07-16 23:59:03,065 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MyAdCampaign
+2016-07-16 23:59:03,089 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-07-16 23:59:03,853 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:03,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-16 23:59:03,867 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:03,880 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-16 23:59:03,881 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-16 23:59:03,881 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-16 23:59:03,888 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:23,375 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-16 23:59:24,680 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:24,685 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-16 23:59:24,687 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-16 23:59:24,691 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-16 23:59:24,692 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-16 23:59:24,692 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-16 23:59:24,696 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:00:07,307 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:00:07,316 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:00:07,318 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:00:07,324 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:00:19,191 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:00:19,198 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:00:19,199 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:00:19,205 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:02:02,704 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:02,711 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:02:02,712 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:02,717 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:02:11,606 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:11,611 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:02:11,613 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:11,625 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:02:23,453 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:23,457 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:02:23,459 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:02:23,463 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:04:05,426 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:05,430 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:04:05,432 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:05,436 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:04:18,314 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MyAdCampaign
+2016-07-17 00:04:18,484 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:18,492 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:04:18,493 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:18,498 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:04:18,498 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 00:04:18,498 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 00:04:18,512 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:29,654 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-17 00:04:30,936 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 00:04:32,627 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyAdCampaign/src
+2016-07-17 00:04:32,627 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /MyAdCampaign/src/test/java because it overlaps with /MyAdCampaign/src
+2016-07-17 00:04:33,084 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MyAdCampaign
+2016-07-17 00:04:33,088 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-07-17 00:04:33,309 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:33,316 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:04:33,319 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:33,323 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:04:33,323 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 00:04:33,323 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 00:04:33,328 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:04:57,313 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 00:05:22,087 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 00:05:22,087 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 00:19:41,443 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:19:41,448 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:19:41,449 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:19:41,454 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:20:39,429 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:20:39,440 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:20:39,442 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:20:39,453 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:24:33,557 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:24:33,564 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:24:33,566 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:24:33,575 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:32:31,800 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:32:31,806 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:32:31,808 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:32:31,816 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:36:12,899 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 00:39:55,116 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:39:55,120 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:39:55,122 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:39:55,126 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:43:25,263 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:43:25,268 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:43:25,270 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:43:25,276 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:43:36,156 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:43:36,162 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:43:36,164 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:43:36,169 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:45:02,055 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:45:02,059 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:45:02,063 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:45:02,068 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:45:35,428 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:45:35,433 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:45:35,434 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:45:35,439 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:46:24,210 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:46:24,215 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:46:24,217 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:46:24,221 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:46:27,361 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:46:27,368 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:46:27,370 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:46:27,375 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:47:13,630 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:47:13,634 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:47:13,636 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:47:13,640 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:47:22,050 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:47:22,055 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:47:22,057 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:47:22,061 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:48:54,177 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:48:54,182 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:48:54,183 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:48:54,188 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:59:30,023 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:59:30,028 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:59:30,030 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:59:30,034 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 00:59:52,760 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:59:52,765 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 00:59:52,768 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 00:59:52,773 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:00:54,598 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:00:54,603 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:00:54,605 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:00:54,609 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:19:39,061 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:19:39,069 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:19:39,071 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:19:39,076 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:19:54,867 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:19:54,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:19:54,875 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:19:54,881 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:24:14,483 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 01:24:15,254 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0-m04/javax.ws.rs-api-2.0-m04.pom
+2016-07-17 01:24:15,358 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0-m04/javax.ws.rs-api-2.0-m04.pom
+2016-07-17 01:24:15,428 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2016-07-17 01:24:15,491 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2016-07-17 01:24:15,573 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0-m04/javax.ws.rs-api-2.0-m04.jar
+2016-07-17 01:24:15,700 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0-m04/javax.ws.rs-api-2.0-m04.jar
+2016-07-17 01:24:17,752 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:17,758 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:24:17,762 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:17,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:24:17,783 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 01:24:17,783 [Worker-93] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 01:24:17,789 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:19,556 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:19,577 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:24:19,579 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:19,585 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:24:52,972 [Worker-94] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-17 01:24:53,662 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 01:24:55,081 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyAdCampaign/src
+2016-07-17 01:24:55,082 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /MyAdCampaign/src/test/java because it overlaps with /MyAdCampaign/src
+2016-07-17 01:24:55,461 [Worker-94] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MyAdCampaign
+2016-07-17 01:24:55,465 [Worker-94] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-07-17 01:24:56,110 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:56,114 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:24:56,116 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:24:56,120 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:24:56,121 [Worker-94] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 01:24:56,121 [Worker-94] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 01:24:56,126 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:25:07,572 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 01:25:12,267 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 01:25:12,267 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 01:25:54,184 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:25:54,191 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:25:54,193 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:25:54,198 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:27:14,944 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 01:27:16,340 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:27:16,345 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:27:16,347 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:27:16,352 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:27:16,352 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 01:27:16,352 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 01:27:16,357 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:27:38,898 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:27:38,904 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:27:38,907 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:27:38,913 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:30:01,463 [Worker-100] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 01:30:03,054 [Worker-100] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.pom
+2016-07-17 01:30:03,200 [Worker-100] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.pom
+2016-07-17 01:30:03,254 [Worker-100] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar
+2016-07-17 01:30:03,468 [Worker-100] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar
+2016-07-17 01:30:04,814 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:04,819 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:30:04,822 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:04,826 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:30:04,826 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 01:30:04,827 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 01:30:04,831 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:06,675 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:06,679 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:30:06,682 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:06,688 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:30:10,792 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 01:30:17,340 [Worker-103] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 01:30:17,341 [Worker-103] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 01:30:58,910 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:58,917 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:30:58,919 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:30:58,926 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:32:06,971 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:32:06,976 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:32:06,978 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:32:06,983 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:32:59,220 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:32:59,224 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:32:59,226 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:32:59,230 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:33:00,413 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:33:00,418 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:33:00,421 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:33:00,427 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:33:31,946 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:33:31,950 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:33:31,953 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:33:31,957 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:41:26,278 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:26,283 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:41:26,286 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:26,290 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:41:36,011 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:36,018 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:41:36,023 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:36,029 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:41:41,263 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:41,270 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:41:41,272 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:41,280 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:41:50,040 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:50,044 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:41:50,046 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:41:50,052 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 01:47:40,336 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:47:40,348 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 01:47:40,350 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 01:47:40,368 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:01:58,851 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:01:58,911 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:01:58,914 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:01:58,921 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:02:10,968 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:02:10,979 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:02:10,982 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:02:10,992 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:03:01,214 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:03:01,223 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:03:01,225 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:03:01,235 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:03:14,122 [Worker-120] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MyAdCampaign
+2016-07-17 02:03:14,689 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:03:14,704 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:03:14,706 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:03:14,718 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:03:14,718 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:03:14,718 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:03:14,728 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:03:31,829 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 02:03:31,830 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-07-17 02:04:11,074 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:04:11,093 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:04:11,097 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:04:11,112 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:04:51,562 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 02:04:59,469 [Worker-121] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 02:04:59,469 [Worker-121] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 02:05:32,818 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:05:32,836 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:05:32,840 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:05:32,860 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:06:01,048 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:06:03,514 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:06:03,514 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:06:06,520 [Worker-124] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <dependencies> from line 28 (position: TEXT seen ...</dependency>\r\n\t\t\r\n   \r\n</dependency>... @56:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <dependencies> from line 28 (position: TEXT seen ...</dependency>\r\n\t\t\r\n   \r\n</dependency>... @56:14) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.20.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2193) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-07-17 02:06:08,041 [Worker-123] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <dependencies> from line 28 (position: TEXT seen ...</dependency>\r\n\t\t\r\n   \r\n</dependency>... @56:14) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <dependencies> from line 28 (position: TEXT seen ...</dependency>\r\n\t\t\r\n   \r\n</dependency>... @56:14) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.20.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.20.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2193) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-07-17 02:06:13,397 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:06:15,715 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:15,730 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:06:15,733 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:15,748 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:06:15,748 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:06:15,748 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:06:15,757 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:18,959 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:18,988 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:06:18,993 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:19,013 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:06:23,706 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 02:06:28,198 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 02:06:28,198 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 02:06:52,516 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:52,538 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:06:52,540 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:06:52,554 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:16:44,488 [Worker-124] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:16:45,378 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.pom
+2016-07-17 02:16:45,411 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.pom
+2016-07-17 02:16:48,744 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2016-07-17 02:16:48,805 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2016-07-17 02:16:49,773 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2016-07-17 02:16:56,131 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2016-07-17 02:18:39,079 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2016-07-17 02:18:39,112 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2016-07-17 02:18:40,074 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.pom
+2016-07-17 02:18:40,104 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.pom
+2016-07-17 02:18:40,169 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar
+2016-07-17 02:18:40,693 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar
+2016-07-17 02:18:40,728 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar
+2016-07-17 02:18:41,309 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar
+2016-07-17 02:18:42,233 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar
+2016-07-17 02:18:45,026 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar
+2016-07-17 02:18:47,859 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:47,924 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:18:47,926 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:47,934 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:18:47,934 [Worker-124] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:18:47,934 [Worker-124] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:18:47,940 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:50,031 [Worker-129] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:18:51,448 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:51,456 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:18:51,458 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:51,464 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:18:51,464 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:18:51,464 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:18:51,469 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:53,019 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:53,028 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:18:53,031 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:18:53,039 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:20:00,754 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:20:00,923 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for QuizWalk_EJB:QuizWalk_EJB:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-07-17 02:20:00,956 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2016-07-17 02:20:01,296 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2016-07-17 02:20:01,339 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2016-07-17 02:20:01,375 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2016-07-17 02:20:01,431 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2016-07-17 02:20:01,782 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2016-07-17 02:20:01,823 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2016-07-17 02:20:01,867 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2016-07-17 02:20:02,872 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2016-07-17 02:20:05,082 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2016-07-17 02:20:08,362 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-17 02:20:49,200 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2016-07-17 02:21:49,318 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2016-07-17 02:27:49,546 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2016-07-17 02:27:49,805 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2016-07-17 02:27:49,829 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2016-07-17 02:27:50,156 [Worker-130] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2016-07-17 02:27:50,748 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for QuizWalk_EJB:QuizWalk_EJB:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2016-07-17 02:27:52,274 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:27:52,281 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:27:52,283 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:27:52,289 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:27:52,289 [Worker-130] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:27:52,289 [Worker-130] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:27:52,294 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:27:52,370 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign
+2016-07-17 02:27:52,370 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-07-17 02:28:49,805 [Worker-131] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 02:28:51,093 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:28:51,101 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:28:51,103 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:28:51,110 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:28:51,110 [Worker-131] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MyAdCampaign
+2016-07-17 02:28:51,110 [Worker-131] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MyAdCampaign
+2016-07-17 02:28:51,115 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:28:52,622 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:28:52,630 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:28:52,632 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:28:52,639 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:31:48,304 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:31:48,314 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:31:48,316 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:31:48,324 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:32:35,587 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:32:35,594 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:32:35,596 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:32:35,602 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:32:48,204 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:32:48,212 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:32:48,214 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:32:48,223 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:33:10,705 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:33:10,711 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:33:10,713 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:33:10,719 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:33:17,144 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:33:17,149 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:33:17,151 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:33:17,157 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:34:31,106 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:31,112 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:34:31,114 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:31,119 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:34:39,153 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:39,158 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:34:39,161 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:39,165 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:34:47,216 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:47,220 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:34:47,222 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:34:47,226 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:35:57,154 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:35:57,158 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:35:57,160 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:35:57,164 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:36:30,819 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:36:30,825 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:36:30,827 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:36:30,833 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:38:29,128 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:38:29,133 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:38:29,135 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:38:29,139 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:39:02,970 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:39:02,977 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:39:02,980 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:39:02,986 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:39:05,734 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:39:05,739 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:39:05,741 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:39:05,745 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:40:21,815 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:40:21,819 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:40:21,821 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:40:21,825 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:40:46,797 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:40:46,802 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:40:46,804 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:40:46,809 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:41:48,004 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:41:48,008 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:41:48,011 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:41:48,015 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:41:57,361 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:41:57,366 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:41:57,368 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:41:57,372 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:42:04,035 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:42:04,039 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:42:04,040 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:42:04,045 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:42:39,441 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:42:39,445 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:42:39,447 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:42:39,451 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:43:00,302 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:43:00,307 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:43:00,309 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:43:00,313 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:43:07,486 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:43:07,490 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:43:07,492 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:43:07,496 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:44:07,863 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:44:07,868 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:44:07,871 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:44:07,877 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:44:15,518 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:44:15,525 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:44:15,527 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:44:15,531 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:46:09,700 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:46:09,705 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:46:09,707 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:46:09,711 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:47:06,036 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:47:06,040 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:47:06,042 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:47:06,046 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:48:40,931 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:48:40,937 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:48:40,940 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:48:40,945 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:49:53,271 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:49:53,275 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:49:53,277 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:49:53,280 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:50:21,481 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:50:21,485 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:50:21,487 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:50:21,491 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:56:32,712 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:56:32,715 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:56:32,717 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:56:32,722 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:56:56,860 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:56:56,864 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:56:56,866 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:56:56,870 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 02:58:29,742 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:58:29,747 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 02:58:29,749 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 02:58:29,754 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 10:56:02,427 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 10:56:07,614 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 10:56:07,634 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 10:56:08,152 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 10:56:08,152 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MyAdCampaign:MyAdCampaign:0.0.1-SNAPSHOT @ E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\pom.xml.
+2016-07-17 10:56:08,159 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 10:56:10,257 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 10:56:10,262 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 10:56:10,264 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 10:56:10,269 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:08:12,382 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:08:12,387 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:08:12,389 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:08:12,393 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:08:35,310 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:08:35,314 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:08:35,316 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:08:35,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:26:46,556 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:26:46,560 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:26:46,563 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:26:46,567 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:26:54,451 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:26:54,455 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:26:54,457 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:26:54,461 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:36:22,248 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:36:22,253 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:36:22,255 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:36:22,259 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:45:05,868 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:45:05,872 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:45:05,874 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:45:05,879 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:45:25,050 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:45:25,055 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:45:25,056 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:45:25,061 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:46:01,106 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:01,110 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:46:01,112 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:01,116 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:46:07,104 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:07,108 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:46:07,110 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:07,114 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:46:15,293 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:15,297 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:46:15,299 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:46:15,302 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:47:35,761 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:47:35,765 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:47:35,766 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:47:35,770 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:49:42,679 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:49:42,683 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:49:42,685 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:49:42,689 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:50:13,521 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:50:13,525 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:50:13,530 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:50:13,535 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:50:25,618 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:50:25,622 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:50:25,624 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:50:25,628 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:53:36,497 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:53:36,502 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:53:36,504 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:53:36,509 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:54:15,898 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:15,902 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:54:15,904 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:15,908 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:54:29,942 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:29,947 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:54:29,948 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:29,952 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:54:39,838 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:39,842 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:54:39,844 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:54:39,848 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 11:55:06,711 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar
+2016-07-17 11:55:07,252 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar
+2016-07-17 11:55:07,471 [Worker-53] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-bundle:1.19
+2016-07-17 11:55:07,729 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:55:07,733 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 11:55:07,735 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 11:55:07,740 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:00:20,948 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:00:20,953 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:00:20,955 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:00:20,959 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:00:59,804 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:00:59,808 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:00:59,811 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:00:59,815 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:02:59,182 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:02:59,187 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:02:59,189 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:02:59,193 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:03:13,221 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:03:13,225 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:03:13,227 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:03:13,231 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:09:37,097 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:09:37,101 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:09:37,103 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:09:37,108 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:09:47,496 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:09:47,501 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:09:47,502 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:09:47,506 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:11:08,324 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:11:08,328 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:11:08,330 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:11:08,334 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:11:23,319 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:11:23,323 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:11:23,325 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:11:23,329 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:12:47,091 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:12:47,096 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:12:47,097 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:12:47,101 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:18:01,995 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:18:02,000 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:18:02,002 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:18:02,006 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:18:51,549 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:18:51,553 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:18:51,555 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:18:51,559 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:19:47,679 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:19:47,683 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:19:47,685 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:19:47,689 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:20:28,511 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:20:28,515 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:20:28,516 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:20:28,520 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:21:11,707 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:21:11,711 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:21:11,713 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:21:11,717 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources
+2016-07-17 12:21:31,387 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:21:31,391 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\main\resources
+2016-07-17 12:21:31,393 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-17 12:21:31,397 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Tausif\BobyConsulting\Development\RestFulWSExmp\RESTfulExample\MyAdCampaign\src\test\resources

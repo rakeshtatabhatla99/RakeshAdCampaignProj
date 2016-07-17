@@ -1,0 +1,33 @@
+package com.ad.campaign;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path("/AdCampaignService")
+public class AdCampaignServices {
+
+	 @GET
+	   @Path("/ad")
+	   @Produces(MediaType.APPLICATION_XML)
+	   public Ad getAd(){
+		 Ad ad = new Ad("ad123", 200, "some good add");
+	      return ad;
+	   }	
+	 
+	 @POST
+	    @Consumes({MediaType.APPLICATION_JSON})
+	    @Produces({MediaType.TEXT_PLAIN})
+	    @Path("/createad")
+	    public String postPerson(Ad ad) throws Exception{
+	        
+	        System.out.println("Ad Contents = "+ad.getAd_content());
+	        System.out.println("partner id  = "+ad.getPartner_id());
+	        System.out.println("Duration = "+ad.getDuration());
+	        
+	        return "ok";
+	    }
+}

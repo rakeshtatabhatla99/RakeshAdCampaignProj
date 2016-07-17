@@ -1,0 +1,18 @@
+package com.ad.campaign;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path("/AdCampaignService")
+public class AdCampaignServices {
+
+	 @GET
+	   @Path("/ad")
+	   @Produces(MediaType.APPLICATION_XML)
+	   public Ad getAd(){
+		 Ad ad = new Ad("ad123", 200, "some good add");
+	      return ad;
+	   }	
+}
